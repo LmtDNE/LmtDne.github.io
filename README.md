@@ -1,2 +1,2 @@
 # LmtDne.github.io
-Personal Blog
+My personal blog to document my journey at Telegraph Academy.
